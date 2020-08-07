@@ -1,2 +1,2 @@
 # DSA-programs
-25 codes in a C++ languages
+25 codes in C++ languages
